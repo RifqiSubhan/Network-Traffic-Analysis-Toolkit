@@ -140,6 +140,14 @@ Directory fuzzing helps find:
 
 ---
 
+## Contac
+
+Name: Rifqi Subhan
+Email: rifkisubhan89@gmail.com
+Phone: +62 821-2381-1711
+Location: Indonesia
+GitHub: https://github.com/RifqiSubhan
+
 ## Conclusion
 
 This repository demonstrates hands-on, practical cybersecurity skills across reconnaissance, packet analysis, and web fuzzing. All examples are created in a safe, controlled environment, suitable for:
